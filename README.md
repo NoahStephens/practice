@@ -1,2 +1,2 @@
-# practice
-practicing object oriented programming in python
+# Practicing Object Oriented Programming in Python
+because i'm bad at it
